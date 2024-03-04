@@ -29,11 +29,11 @@ Feel the satisfaction of completing a project from start to finish</br>
 **-Navigation :**
 
 Directional arrows: Move the cursor in four directions (up, down, left, right).
-Enter/Return: Select or deselect a counter.
+Enter/Return: Select or deselect a counter.</br>
 **-Moving counters :**
 
 After selection: Use the arrow keys to move the pawn.
-Moving rule: A pawn can jump over an adjacent pawn and land on an empty square.
+Moving rule: A pawn can jump over an adjacent pawn and land on an empty square.</br>
 **-Game keys :**
 
 Q: Exit the game.</br>
@@ -46,7 +46,7 @@ Empty square: Dot.</br>
 **-Objective:**
 
 Move a pawn to the centre square to win.</br>
-The game ends when no move is possible.
+The game ends when no move is possible.</br>
 **-Tips :**
 
 Be strategic! Plan your moves to capture your opponent's pieces and reach the centre square.
