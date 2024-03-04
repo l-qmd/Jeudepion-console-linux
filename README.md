@@ -24,3 +24,32 @@ Debugging and error correction
 Develop my autonomy and problem-solving skills<br>
 Appreciate the importance of documentation and testing</br>
 Feel the satisfaction of completing a project from start to finish</br>
+<h2 color="blue">Gameplay</h2>
+
+**-Navigation :**
+
+Directional arrows: Move the cursor in four directions (up, down, left, right).
+Enter/Return: Select or deselect a counter.
+**-Moving counters :**
+
+After selection: Use the arrow keys to move the pawn.
+Moving rule: A pawn can jump over an adjacent pawn and land on an empty square.
+**-Game keys :**
+
+Q: Exit the game.</br>
+R: Restart the game.</br>
+U: Undo the last move.</br>
+**-Representation :**
+
+Pawn: Circle.</br>
+Empty square: Dot.</br>
+**-Objective:**
+
+Move a pawn to the centre square to win.</br>
+The game ends when no move is possible.
+**-Tips :**
+
+Be strategic! Plan your moves to capture your opponent's pieces and reach the centre square.
+Anticipate possible moves and block your opponent's options.
+Stay focused and analyse the board to maximise your chances of victory.</br>
+**Enjoy the game!😉**
