@@ -1,4 +1,5 @@
 <h1 color="red">♟ Pawn games for a Linux console</h1>
+<p>This project was one of my first in the C language, carried out as part of my C language training.</p>
 <h2 color="blue">The aim of the project</h2>
 **-📁 Creating a simple game:**
 
