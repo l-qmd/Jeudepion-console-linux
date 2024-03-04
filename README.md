@@ -8,7 +8,7 @@ I created a pawn game in console mode with a simple and intuitive user interface
 
 I focused on ease of use and speed of learning to make the game accessible to everyone. The functionalities and game mechanics have been deliberately simplified to suit a first project in C.
 
-C language skills:**-🧾
+**-🧾C language skills:**
 
 I used the basic notions of the C language, such as variables, data types, control structures (conditional, loops) and functions.
 
@@ -21,6 +21,6 @@ Debugging and error correction
 
 **-🤔 This project enabled me to:**
 
-Develop my autonomy and problem-solving skills
-Appreciate the importance of documentation and testing
-Feel the satisfaction of completing a project from start to finish
+Develop my autonomy and problem-solving skills<br>
+Appreciate the importance of documentation and testing</br>
+Feel the satisfaction of completing a project from start to finish</br>
